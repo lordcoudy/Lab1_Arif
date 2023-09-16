@@ -1,0 +1,3 @@
+/Users/milord/CLionProjects/Lab1_Arif/cmake-build-debug/CMakeFiles/Lab1_Arif.dir
+/Users/milord/CLionProjects/Lab1_Arif/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/milord/CLionProjects/Lab1_Arif/cmake-build-debug/CMakeFiles/rebuild_cache.dir
